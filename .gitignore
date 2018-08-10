@@ -1,0 +1,6 @@
+sql/
+__python__
+__pycache__
+sql.zip
+config.ini
+databases.txt
